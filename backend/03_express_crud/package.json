@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "name": "express_crud",
+  "version": "1.0.0",
+  "description": "express crud operation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "crud",
+    "chaicrud"
+  ],
+  "author": "Ahasan Habib Nahid",
+  "license": "ISC"
+}
